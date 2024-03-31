@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="thymeleaf.spring5" type="repository">
+    <properties maven-id="org.thymeleaf:thymeleaf-spring5:3.1.2.RELEASE" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/thymeleaf-spring5-3.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/thymeleaf-3.1.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/attoparser-2.0.7.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/unbescape-1.1.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-2.0.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/thymeleaf-spring5-3.1.2.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/thymeleaf-3.1.2.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/attoparser-2.0.7.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/unbescape-1.1.6.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-2.0.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
